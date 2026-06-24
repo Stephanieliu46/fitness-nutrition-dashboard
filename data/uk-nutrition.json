@@ -1,0 +1,22 @@
+[
+  { "name": "Chicken Breast (cooked)",     "calories": 165, "protein": 31,  "carbs": 0,    "fat": 3.6,  "category": "Meat & Poultry",   "source": "NHS / McCance & Widdowson" },
+  { "name": "Salmon Fillet (grilled)",      "calories": 182, "protein": 25,  "carbs": 0,    "fat": 8.7,  "category": "Fish & Seafood",   "source": "NHS / McCance & Widdowson" },
+  { "name": "Brown Rice (cooked)",          "calories": 112, "protein": 2.6, "carbs": 23,   "fat": 0.9,  "category": "Grains & Cereals", "source": "NHS / McCance & Widdowson" },
+  { "name": "Porridge Oats (dry)",          "calories": 374, "protein": 11,  "carbs": 60,   "fat": 7,    "category": "Grains & Cereals", "source": "NHS / McCance & Widdowson" },
+  { "name": "Whole Milk",                   "calories": 63,  "protein": 3.2, "carbs": 4.7,  "fat": 3.7,  "category": "Dairy",            "source": "NHS / McCance & Widdowson" },
+  { "name": "Greek Yoghurt (full fat)",     "calories": 97,  "protein": 9,   "carbs": 3.8,  "fat": 5,    "category": "Dairy",            "source": "NHS / McCance & Widdowson" },
+  { "name": "Large Egg (whole, boiled)",    "calories": 147, "protein": 12.5,"carbs": 0.6,  "fat": 10.3, "category": "Eggs",             "source": "NHS / McCance & Widdowson" },
+  { "name": "Sweet Potato (baked)",         "calories": 90,  "protein": 2,   "carbs": 20.7, "fat": 0.1,  "category": "Vegetables",       "source": "NHS / McCance & Widdowson" },
+  { "name": "Broccoli (steamed)",           "calories": 35,  "protein": 3,   "carbs": 5,    "fat": 0.4,  "category": "Vegetables",       "source": "NHS / McCance & Widdowson" },
+  { "name": "Banana",                       "calories": 89,  "protein": 1.1, "carbs": 23,   "fat": 0.3,  "category": "Fruit",            "source": "NHS / McCance & Widdowson" },
+  { "name": "Cottage Cheese",               "calories": 103, "protein": 11,  "carbs": 3.4,  "fat": 4.5,  "category": "Dairy",            "source": "NHS / McCance & Widdowson" },
+  { "name": "Cheddar Cheese",               "calories": 416, "protein": 25,  "carbs": 0.1,  "fat": 34,   "category": "Dairy",            "source": "NHS / McCance & Widdowson" },
+  { "name": "Beef Mince (5% fat, cooked)", "calories": 174, "protein": 26,  "carbs": 0,    "fat": 7.5,  "category": "Meat & Poultry",   "source": "NHS / McCance & Widdowson" },
+  { "name": "White Bread",                  "calories": 266, "protein": 8.4, "carbs": 49,   "fat": 3.3,  "category": "Bread & Bakery",   "source": "NHS / McCance & Widdowson" },
+  { "name": "Wholemeal Bread",              "calories": 240, "protein": 9.4, "carbs": 42,   "fat": 3.1,  "category": "Bread & Bakery",   "source": "NHS / McCance & Widdowson" },
+  { "name": "Peanut Butter",                "calories": 598, "protein": 25,  "carbs": 13,   "fat": 51,   "category": "Nuts & Seeds",     "source": "NHS / McCance & Widdowson" },
+  { "name": "Olive Oil",                    "calories": 899, "protein": 0,   "carbs": 0,    "fat": 100,  "category": "Oils & Fats",      "source": "NHS / McCance & Widdowson" },
+  { "name": "Tuna (canned in water)",       "calories": 116, "protein": 26,  "carbs": 0,    "fat": 0.9,  "category": "Fish & Seafood",   "source": "NHS / McCance & Widdowson" },
+  { "name": "Spinach (raw)",                "calories": 23,  "protein": 2.9, "carbs": 3.6,  "fat": 0.4,  "category": "Vegetables",       "source": "NHS / McCance & Widdowson" },
+  { "name": "Blueberries",                  "calories": 57,  "protein": 0.7, "carbs": 14,   "fat": 0.3,  "category": "Fruit",            "source": "NHS / McCance & Widdowson" }
+]
