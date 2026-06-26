@@ -210,7 +210,7 @@ export default function WorkoutPage({ store, onTabChange }: WorkoutPageProps) {
 
             {/* Category filter */}
             <div className="flex flex-wrap gap-1.5 mb-3">
-              {(['all', ...Object.keys(CATEGORY_LABELS)] as string[]).map(cat => (
+              {([...Object.keys(CATEGORY_LABELS), 'all'] as string[]).map(cat => (
                 <button
                   key={cat}
                   onClick={() => setCategoryFilter(cat)}
