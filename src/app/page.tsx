@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <div className="flex h-screen overflow-hidden">
       <Sidebar activeTab={tab} onTabChange={setTab} />
-      <main className="flex-1 overflow-y-auto bg-slate-50">
+      <main className="flex-1 overflow-y-auto bg-slate-50 pb-20 sm:pb-0">
         {tab === 'overview' && <Overview store={store} onTabChange={setTab} />}
         {tab === 'workout' && <WorkoutPage store={store} onTabChange={setTab} />}
         {tab === 'nutrition' && <NutritionPage store={store} onTabChange={setTab} />}

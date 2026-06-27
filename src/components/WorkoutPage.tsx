@@ -108,7 +108,7 @@ export default function WorkoutPage({ store, onTabChange }: WorkoutPageProps) {
     categoryFilter === 'all' ? EXERCISES : EXERCISES.filter(e => e.category === categoryFilter);
 
   return (
-    <div className="p-6 max-w-3xl mx-auto">
+    <div className="p-4 sm:p-6 max-w-3xl mx-auto">
       {/* Header */}
       <div className="mb-6">
         <div className="flex items-start justify-between">
